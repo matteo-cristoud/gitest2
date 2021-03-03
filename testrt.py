@@ -12,6 +12,7 @@ Création: admin, le 03/03/2021
 def main():
 
     print("Bonjour")
+    print("Je m'appelle Maxence")
 if __name__ == '__main__':
     main()
 # Fin
