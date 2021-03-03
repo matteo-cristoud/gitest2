@@ -10,6 +10,7 @@ Création: elacombe, le 03/03/2021
 # Programme principal
 def main():
     print("aurevoir")
+    print("et a jamais")
 
 
 if __name__ == '__main__':
